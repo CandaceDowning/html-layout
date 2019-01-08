@@ -1,0 +1,35 @@
+body,html{
+    margin: 0px;
+    padding: 0px;
+}
+.line{
+    height: 100px;
+    width: 100%;
+}
+.gray-line{
+    background-color: rgb(204, 201, 201);
+    box-sizing: border-box;
+    padding: 10px;
+}
+.blue-box{
+    background-color:#4A90E2;
+    height: 80px;
+    width: 80px;
+}
+.white-line{
+    box-sizing: border-box;
+    padding: 25px;
+}
+.blue-line{
+    background-color:#4A90E2;
+}
+.aqua-line{
+    background-color:#50E3C2;
+}
+.green-line{
+    background-color:#B8E986;
+}
+.yellow-line{
+    background-color:#F8E71C;
+}
+

@@ -1,0 +1,20 @@
+header{
+    background-color:rgb(69, 69, 70);
+    height: 200px;
+}
+
+body{
+    background-color: rgb(212, 208, 208);
+}
+
+.middle-box{
+    background-color: white;
+    margin: 0px 200px;
+    height: 700px;
+}
+
+.bottom-box{
+    background-color: rgb(37, 37, 37);
+    margin: 0px 200px;
+    height: 100px;
+}
